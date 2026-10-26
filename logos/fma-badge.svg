@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60">
+    <rect width="240" height="60" rx="10" fill="#0B1C33" stroke="#D97706" stroke-width="1"/>
+    <circle cx="28" cy="30" r="14" fill="#F59E0B" fill-opacity="0.2"/>
+    <path d="M28 20 L35 24 L35 32 C35 36 28 40 28 40 C28 40 21 36 21 32 L21 24 Z" stroke="#F59E0B" stroke-width="2" fill="none"/>
+    <text x="50" y="27" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="11" fill="#FCD34D" letter-spacing="1">FMA FINANCIAL ADVICE</text>
+    <text x="50" y="43" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-weight="800" font-size="13" fill="#ffffff">Code of Conduct Regulated</text>
+  </svg>

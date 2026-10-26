@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 48" width="170" height="48">
+      <rect x="12" y="14" width="20" height="20" rx="3" fill="#0f172a"/>
+      <path d="M22 18 L22 30 M16 24 L28 24" stroke="#026EC3" stroke-width="3" stroke-linecap="round"/>
+      <text x="40" y="31" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="900" font-size="21" fill="#0f172a" letter-spacing="0.5">CHUBB</text>
+    </svg>
